@@ -55,7 +55,7 @@
     "deeplearn": "next",
     "deeplearn-knn-image-classifier": "~0.3.0",
     "deeplearn-squeezenet": "~0.2.0",
-    "tslint": "~5.8.0",
+    "tslint": "~5.16.0",
     "vue": "~2.5.9",
     "deeplearn-legacy-loader": "0.0.1"
   },
